@@ -1,0 +1,15 @@
+{
+  "title": "WP Plugin Developer Tools",
+  "name": "wp-plugin-developer-tools",
+  "version": "0.0.1",
+  "description": "Integrate useful WordPress functions for plugin development into the Firefox Developer toolbox",
+  "main": "index.js",
+  "author": "er11",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "GPLv2",
+  "keywords": [
+    "jetpack"
+  ]
+}
